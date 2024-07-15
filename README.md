@@ -17,3 +17,12 @@ The purpose of the projects is to get acquainted with the software package
 MICROWIND for design, control and simulation of VLSI circuits.
 
 MICROWIND (http://www.microwind.org/) is an open source software, designed for these projects.
+
+With the MICROWIND program you can:
+- Build a physical design (layout) of an integrated circuit in detail (full custom), transistor by transistor.
+- Hierarchical construction of a physical design from ready-made physical designs of submodules, the generator
+MOS transistor physical design generator, or Verilog language descriptions.
+- Physical design verification and checking compliance with design rules (minimum required dimensions or
+distances between different shapes) of the implementation technology.
+- Measurements to extract characteristic quantities and functional parameters CMOS circuits.
+- SPICE level simulation of the circuit corresponding to the physical design.
