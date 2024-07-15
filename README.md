@@ -11,5 +11,9 @@ construction and control of geometric masks required to create after a series of
 thin slice of silicon.
 
 <br>
-<br>
 <hr>
+
+The purpose of the projects is to get acquainted with the software package
+MICROWIND for design, control and simulation of VLSI circuits.
+
+MICROWIND (http://www.microwind.org/) is an open source software, designed for these projects.
