@@ -9,3 +9,7 @@ descriptions. The opposite is the case in the lower deductive levels.
 These projects deal with the lowest level of abstractive drawing, called the physical level (physical design), and with the 
 construction and control of geometric masks required to create after a series of processes on the semiconducting devices on a 
 thin slice of silicon.
+
+<br>
+<br>
+<hr>
